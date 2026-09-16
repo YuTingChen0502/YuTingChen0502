@@ -1,7 +1,7 @@
 # Hi, I'm Austin Chen
 
-- CS Junior @ NYCU.
-- Research Assistant @ NCHC.
+- CS Junior @ NYCU
+- Research Assistant @ NCHC
 
 ## Education
 
