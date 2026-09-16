@@ -14,7 +14,7 @@
 - Research Assistant, National Center for High-performance Computing (NCHC) — Sep 2026–Present
 - Undergraduate Researcher, Reinforcement Learning and Bandits Lab (REAL), NYCU — Sep 2026–Present
 - Summer Intern, National Center for High-performance Computing (NCHC) — Jul–Aug 2026
-- Competitor, HiPAC26 — Honorable Mention; Quantum ESPRESSO GPU performance engineering on NVIDIA H200
+- Competitor, HiPAC26 — Quantum ESPRESSO GPU performance engineering on NVIDIA H200
 - Competitor, APAC26 — OpenFOAM performance engineering on large-scale CPU systems
 
 ## What I am working on
