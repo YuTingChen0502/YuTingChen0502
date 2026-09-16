@@ -34,7 +34,7 @@
 
 - [hipac26-qe](https://github.com/YuTingChen0502/hipac26-qe) — Quantum ESPRESSO GPU performance engineering on NVIDIA H200
 - [ai-eeg-dialogue-classification](https://github.com/YuTingChen0502/ai-eeg-dialogue-classification) — cross-subject EEG classification and transformer-based dialogue-continuity modeling
-- [Project Distort](https://github.com/YuTingChen0502/CG-final-project) — C++ / OpenGL procedural coordinate-transformation engine with real-time GPU deformation and puzzle modes (private)
+- [Project Distort](https://github.com/lololchen0523/CG-final-project) — C++ / OpenGL procedural coordinate-transformation engine with real-time GPU deformation and puzzle modes
 - [Secure Server Application](https://github.com/YuTingChen0502/NYCU-CE-Final) — ECDHE + AES-GCM encrypted data distribution with single-use API keys (private)
 - [Aurea](https://github.com/YuTingChen0502/Aurea) — local-first travel workspace built with React, TypeScript, RxDB, and Supabase
 - [isc26-dftbplus](https://github.com/YuTingChen0502/isc26-dftbplus) — ISC26 DFTB+ working copy with an experimental ELSI/OpenMP modification
