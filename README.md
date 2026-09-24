@@ -1,7 +1,10 @@
 # Hi, I'm Austin Chen
 
-- CS Junior @ NYCU
-- Research Assistant @ NCHC
+**CS Junior @ NYCU · Research Assistant @ NCHC**
+
+<a href="mailto:chenyuting0502@gmail.com">
+  <img src="https://img.shields.io/badge/Email-chenyuting0502%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ## Education
 
@@ -24,19 +27,42 @@
 
 ## Research
 
-- Neural pre-decoding for quantum error correction — NCHC  
+- **Neural pre-decoding for quantum error correction — NCHC**  
   Studied distribution shift and adaptation in neural QEC decoders
 
-- Test-time reinforcement learning — REAL, NYCU  
+- **Test-time reinforcement learning — REAL, NYCU**  
   Ongoing undergraduate research on learning and adaptation at test time
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,bash,cmake,latex,linux,git,githubactions" alt="Tech Stack" />
+</p>
 
 ## Repositories
 
-- [hipac26-qe](https://github.com/YuTingChen0502/hipac26-qe) — Quantum ESPRESSO GPU performance engineering on NVIDIA H200
-- [ai-eeg-dialogue-classification](https://github.com/YuTingChen0502/ai-eeg-dialogue-classification) — cross-subject EEG classification and transformer-based dialogue-continuity modeling
-- [Project Distort](https://github.com/lololchen0523/CG-final-project) — C++ / OpenGL procedural coordinate-transformation engine with real-time GPU deformation and puzzle modes
-- [Secure Server Application](https://github.com/YuTingChen0502/NYCU-CE-Final) — ECDHE + AES-GCM encrypted data distribution with single-use API keys (private)
-- [Aurea](https://github.com/YuTingChen0502/Aurea) — local-first travel workspace built with React, TypeScript, RxDB, and Supabase
-- [isc26-dftbplus](https://github.com/YuTingChen0502/isc26-dftbplus) — ISC26 DFTB+ working copy with an experimental ELSI/OpenMP modification
+- [**hipac26-qe**](https://github.com/YuTingChen0502/hipac26-qe) — Quantum ESPRESSO GPU performance engineering on NVIDIA H200
+- [**ai-eeg-dialogue-classification**](https://github.com/YuTingChen0502/ai-eeg-dialogue-classification) — cross-subject EEG classification and transformer-based dialogue-continuity modeling
+- [**Project Distort**](https://github.com/lololchen0523/CG-final-project) — C++ / OpenGL procedural coordinate-transformation engine with real-time GPU deformation and puzzle modes
+- **Secure Server Application** — ECDHE + AES-GCM encrypted data distribution with single-use API keys *(private)*
+- [**Aurea**](https://github.com/YuTingChen0502/Aurea) — local-first travel workspace built with React, TypeScript, RxDB, and Supabase
+- [**isc26-dftbplus**](https://github.com/YuTingChen0502/isc26-dftbplus) — ISC26 DFTB+ working copy with an experimental ELSI/OpenMP modification
 
-chenyuting0502@gmail.com
+<br>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YuTingChen0502/YuTingChen0502/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YuTingChen0502/YuTingChen0502/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/YuTingChen0502/YuTingChen0502/output/github-snake.svg"
+    />
+  </picture>
+</div>
