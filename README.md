@@ -3,7 +3,7 @@
 **CS Junior @ NYCU · Research Assistant @ NCHC**
 
 <a href="mailto:chenyuting0502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chenyuting0502%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-chenyuting0502%40gmail.com-2B7FA3?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 ## Education
